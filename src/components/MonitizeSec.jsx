@@ -7,7 +7,7 @@ import dImg from '../assets/d.png'
 function MonitizeSec() {
   return (
     <section>
-     <div className='w-11/12 lg:w-10/12 m-auto my-6 lg:flex lg:flex-wrap xl:flex xl:flex-wrap font-primaryjost'>
+     <div className=' border-red-300 w-11/12 lg:w-10/12 m-auto my-6 xl:mt-20 lg:flex lg:flex-wrap xl:flex xl:flex-wrap font-primaryjost'>
 {/* left section   */}
      <div className='lg:w-2/5 xl:w-2/5 lg:relative xl:z-10 xl:mt-[345px] xl:relative lg:z-10 lg:mt-[345px] border-red-400 w-12/12 text-[#00dc82] font-medium text-2xl lg:text-4xl xl:text-4xl text-center my-6'>
      <p className=''>
@@ -55,7 +55,7 @@ function MonitizeSec() {
           </div>
 
           {/* card-3  */}
-          <div className='flex flex-row gap-1 w-12/12 rounder-3xl border-blue-400 relative lg:ml-[420px] xl:ml-[420px] lg:mt-[-88px] xl:mt-[-88px]  text-center'>
+          <div className='flex flex-row gap-1 w-12/12 rounder-3xl border-blue-400 relative lg:ml-[420px] xl:ml-[450px] lg:mt-[-88px] xl:mt-[-88px]  text-center'>
 
 
           <div className="flex flex-col gap-8 p-3 rounder-3xl my-none border-green-300 bg-black w-6/12 h-80 lg:w-[280px] lg:h-96 xl:h-96 rounded-2xl text-white my-2 cursor-pointer">
