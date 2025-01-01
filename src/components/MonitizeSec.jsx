@@ -36,7 +36,7 @@ function MonitizeSec() {
           {/* card-2  */}
 
 
-          <div className="flex flex-col gap-12 p-3 rounder-3xl my-none border-green-300 bg-black w-6/12 h-80 lg:h-[335px] xl:h-[335px] lg:w-[280px] xl:w-[280px] rounded-2xl text-white my-2 cursor-pointer">
+          <div className="flex flex-col gap-12 p-3 rounder-3xl my-none border-green-300 bg-black w-6/12 h-[300px] lg:h-[335px] xl:h-[335px] lg:w-[280px] xl:w-[280px] rounded-2xl text-white my-2 cursor-pointer">
 
            <div className=''>
            <p className='border-red-300 w-fit m-auto font-medium text-md lg:text-3xl xl:text-3xl'>
@@ -77,7 +77,7 @@ function MonitizeSec() {
           {/* card 4   */}
 
 
-          <div className="flex flex-col gap-12 relative z-10 mt-[-40px] p-3 rounder-3xl my-none border-green-300 bg-black w-6/12 h-80 lg:h-[400px] xl:h-[400px] lg:w-[280px] xl:w-[280px] rounded-2xl text-white my-2 cursor-pointer">
+          <div className="flex flex-col gap-12 relative z-10 mt-[-10px] lg:mt-[-40px] xl:mt-[-40px] md:mt-[-40px] p-3 rounder-3xl my-none border-green-300 bg-black w-6/12 h-80 lg:h-[400px] xl:h-[400px] lg:w-[280px] xl:w-[280px] rounded-2xl text-white my-2 cursor-pointer">
 
            <div className=''>
            <p className='border-red-300 w-fit m-auto font-medium text-md lg:text-3xl xl:text-3xl'>
